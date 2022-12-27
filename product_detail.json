@@ -1,0 +1,45 @@
+{
+    "response": {
+        "id": 1,
+        "name": "Clip Angular",
+        "description": "Clips Angulares de 2\"x2\" con 6 huecos (4 y 2) de color blanco",
+        "html_features": "Conector versátil para diversas conexiones a 90 grados y proyectos de reparación del hogar.<br />\n        Más fuerte que elclavado en ángulo o la fijación con tornillos solamente.<br />\n        Ayuda a garantizar que las uniones sean siempre rectas y fuertes.",
+        "id_subcategory": 1,
+        "id_provider": 1,
+        "price_usd": 0.99,
+        "dimensions": [
+            {
+                "dimension_name": "dimension",
+                "dimension_value": "2\"x2\""
+            },
+            {
+                "dimension_name": "color",
+                "dimension_value": "Blanco;255,255,255"
+            }
+        ],
+        "media": {
+            "id_product": 1,
+            "pictures": [
+                "https://terracesandplusstatic.s3.eu-west-1.amazonaws.com/tplus/products/1/00.png",
+                "https://terracesandplusstatic.s3.eu-west-1.amazonaws.com/tplus/products/1/01.png",
+                "https://terracesandplusstatic.s3.eu-west-1.amazonaws.com/tplus/products/1/360.png"
+            ],
+            "videos": [
+                "https://terracesandplusstatic.s3.eu-west-1.amazonaws.com/tplus/products/1//path/00.mp4"
+            ]
+        },
+        "valoration": {
+            "numberReviews": 21,
+            "averageReviews": 2.0
+        },
+        "status": 1,
+        "product_discount": null,
+        "code_tplus": "Cl2x26HW",
+        "provider": {
+            "id": 1,
+            "name": "A&S Aluminum Supply",
+            "email": "provider@mail.com"
+        }
+    },
+    "login_token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJdWzwydG0jdlBWMHNwV3k-eFA3dD5IT29RXlRePn5sRCIsImV4cCI6MTY3MjU1ODc5Nn0.SGshfuoe7kTNWbWMLOda-B21tGfJGOcG-PFX4sGLHnmAiRQemAjhdUrJp3P1_GeprpDB5ZoSWF_m4szlzpbkhw"
+}
